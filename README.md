@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about a chat app created using flutter framework. The UI of the project has been kept simple and the main focus is on the functionality of the project.
+
 
 A few resources to get you started if this is your first Flutter project:
 
